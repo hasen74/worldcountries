@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="go_to_data_fragment">Go to Data Fragment</string>
+    <string name="go_to_home_fragment">Go to Home Fragment</string>
+    <string name="data_fragment">Data Fragment</string>
+</resources>

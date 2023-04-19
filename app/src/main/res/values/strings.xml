@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin101</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="go_to_data_fragment">Go to Data Fragment</string>
+    <string name="go_to_home_fragment">Go to Home Fragment</string>
+    <string name="data_fragment">Data Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
